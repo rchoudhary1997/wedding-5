@@ -1,5 +1,5 @@
 body{margin:0;font-family:Arial,sans-serif;background:#faf6ef;color:#333}
-.hero{height:100vh;background:linear-gradient(rgba(0,0,0,.45),rgba(0,0,0,.45)),center/cover;display:flex;align-items:center;justify-content:center;text-align:center;color:#fff}
+.hero{height:100vh;background:linear-gradient(rgba(0,0,0,.45),rgba(0,0,0,.45)),url(93e1c31a-1513-4c65-9232-6c0fa9969fdc.png),center/cover;display:flex;align-items:center;justify-content:center;text-align:center;color:#fff}
 .overlay{padding:20px}
 h1{font-size:clamp(2.5rem,6vw,5rem);margin:0}
 #countdown{font-size:1.3rem;margin:20px 0}
